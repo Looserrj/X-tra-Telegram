@@ -16,7 +16,7 @@ USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n�
                     "`Hello, this is X-tra-Telegram Security Service.You have found your way here to my master,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "Wait Until He Aprroves you.If You Can't Wait Get A Car And Go To Hell.Have A Nice Journey.`\n\n"
-                    "😈")
+                    "😈😈")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
