@@ -15,7 +15,7 @@ USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your
 USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](tg://user?id=742506768)\n\n"
                     "`Hello, this is X-tra-Telegram Security Service.You have found your way here to my master,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
-                    "Wait Until He Aprroves you.If You Can't Wait Get A Car And Go To Hell.Have A Nice Journey.`\n\n"
+                    "Wait Until He Aprroves you.If You Can't Wait Get A Car And Go To Hell.Have A Nice Journey....`\n\n"
                     "😈😈")
 
 
