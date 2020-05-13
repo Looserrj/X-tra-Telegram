@@ -1,4 +1,3 @@
- 
 from userbot import bot
 from sys import argv
 import sys
