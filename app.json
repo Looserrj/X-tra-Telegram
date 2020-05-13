@@ -1,3 +1,4 @@
+ 
 {
   "name": "X-tra Telegram",
   "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/XtraTgChat for any problems or support",
@@ -62,11 +63,6 @@
     "LYDIA_API_KEY": {
       "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
       "value": "",
-      "required": false
-    },
-    "SUDO_USERS": {
-      "description": "Makes your acc and bot stable",
-      "value": "742506768",
       "required": false
     },
     "TG_BOT_TOKEN_BF_HER": {
